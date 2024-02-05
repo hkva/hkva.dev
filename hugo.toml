@@ -1,0 +1,5 @@
+baseURL = 'https://hkva.dev/'
+languageCode = 'en-us'
+title = 'hkva.dev'
+theme = 'hugo-xmin'
+
